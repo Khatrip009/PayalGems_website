@@ -13,7 +13,7 @@ export default function TermsAndConditions() {
           </h2>
 
           <p>
-            By accessing and using Minal Gems, you agree to comply with these
+            By accessing and using Payal Gems, you agree to comply with these
             Terms & Conditions and all applicable laws and regulations.
           </p>
         </section>
@@ -48,7 +48,7 @@ export default function TermsAndConditions() {
 
           <p>
             All website content including images, branding, logos, designs, and
-            text are the property of Minal Gems and may not be copied or reused
+            text are the property of Payal Gems and may not be copied or reused
             without permission.
           </p>
         </section>
@@ -59,7 +59,7 @@ export default function TermsAndConditions() {
           </h2>
 
           <p>
-            Minal Gems shall not be held liable for any indirect, incidental,
+            Payal Gems shall not be held liable for any indirect, incidental,
             or consequential damages arising from use of this website or products.
           </p>
         </section>

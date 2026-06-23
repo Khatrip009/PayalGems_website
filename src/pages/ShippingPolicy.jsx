@@ -13,7 +13,7 @@ export default function ShippingPolicy() {
           </h2>
 
           <p>
-            Minal Gems currently ships across India and selected international
+            Payal Gems currently ships across India and selected international
             locations depending on availability and regulations.
           </p>
         </section>

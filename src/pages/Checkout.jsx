@@ -241,7 +241,7 @@ export default function Checkout() {
         key: paymentRes.key_id,
         amount: paymentRes.amount,
         currency: paymentRes.currency,
-        name: 'MINALGEMS',
+        name: 'PayalGEMS',
         description: `Order ${placedOrderId.slice(0, 8)}`,
         order_id: paymentRes.razorpay_order_id,
         handler: async function (response) {

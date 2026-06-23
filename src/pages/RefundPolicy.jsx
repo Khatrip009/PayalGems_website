@@ -13,7 +13,7 @@ export default function RefundPolicy() {
           </h2>
 
           <p>
-            At Minal Gems, customer satisfaction is important to us. If you are
+            At Payal Gems, customer satisfaction is important to us. If you are
             not fully satisfied with your purchase, you may contact us within
             7 days of delivery regarding eligible return or refund requests.
           </p>

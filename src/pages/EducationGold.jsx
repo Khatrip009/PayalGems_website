@@ -65,7 +65,7 @@ export default function EducationGold() {
             History, Karats, Colours & Craft
           </p>
           <p className="mt-3 text-lg text-gold-600 italic">
-            Expert guidance from Minalgems
+            Expert guidance from Payalgems
           </p>
           <div className="mt-8 h-0.5 w-32 mx-auto bg-gold-400" />
 
@@ -206,7 +206,7 @@ export default function EducationGold() {
             <h3 className="font-serif text-2xl text-gold-400 mb-4">Trade-in & Recycling</h3>
             <p className="mb-6 text-white/80">
               Bring your old gold jewellery for transparent valuation, exchange options and
-              responsible recycling with Minal Gems.
+              responsible recycling with Payal Gems.
             </p>
             <Link
               to="/contact"

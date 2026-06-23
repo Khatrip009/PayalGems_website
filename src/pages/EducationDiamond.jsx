@@ -85,7 +85,7 @@ export default function EducationDiamond() {
             Master the 4Cs: Cut, Color, Clarity & Carat Weight
           </p>
           <p className="mt-3 text-lg text-gold-600 italic">
-            Expert guidance from Minalgems
+            Expert guidance from Payalgems
           </p>
           <div className="mt-8 h-0.5 w-32 mx-auto bg-gold-400" />
         </div>

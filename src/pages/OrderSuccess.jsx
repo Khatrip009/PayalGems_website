@@ -29,7 +29,7 @@ export default function OrderSuccess() {
         </h1>
         <p className="mt-4 text-charcoal text-lg">
           Thank you for choosing{' '}
-          <span className="text-gold-600 font-semibold">MINALGEMS</span>.
+          <span className="text-gold-600 font-semibold">PayalGEMS</span>.
         </p>
 
         {/* Order Reference */}

@@ -41,7 +41,7 @@ export default function Login() {
     <div className="min-h-screen bg-cream flex items-center justify-center px-4 py-16">
       <div className="w-full max-w-md bg-white border border-gold-200 shadow-sm p-8 md:p-10 rounded-sm">
         <div className="text-center mb-8">
-          <img src="/logo_minalgems.png" alt="Minalgems" className="h-12 mx-auto mb-4" />
+          <img src="/logo_minalgems.png" alt="Payalgems" className="h-12 mx-auto mb-4" />
           <h2 className="font-serif text-3xl text-gold-700 tracking-wide">Welcome Back</h2>
           <p className="text-sm text-charcoal mt-2">Sign in to your account</p>
         </div>

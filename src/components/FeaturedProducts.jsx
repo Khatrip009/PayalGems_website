@@ -8,7 +8,7 @@ import { getCategories } from '../api/categories';
 import { getProducts } from '../api/products';
 import apiClient from '../api/client';
 
-const IMAGE_BASE = 'https://apiminalgems.exotech.co.in';
+const IMAGE_BASE = import.meta.env.VITE_IMAGE_BASE || 'https://apiminalgems.exotech.co.in';
 
 function getFullUrl(url) {
   if (!url) return null;

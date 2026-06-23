@@ -223,7 +223,7 @@ export default function Home() {
               A Legacy of Excellence
             </h2>
             <p className="text-charcoal leading-relaxed text-sm sm:text-base lg:text-lg font-light">
-              For over three decades, Minalgems has celebrated the art of fine jewellery.
+              For over three decades, Payalgems has celebrated the art of fine jewellery.
               Each piece is crafted with uncompromising passion, using ethically sourced
               gemstones and precious metals. From the sketch of a master artisan to the
               final polish, every detail is a testament to our devotion to beauty.
@@ -246,7 +246,7 @@ export default function Home() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8 lg:gap-10">
           {[
             { quote: "Absolutely breathtaking craftsmanship. My engagement ring is a masterpiece.", author: "Priya S." },
-            { quote: "The attention to detail is unmatched. I felt like royalty wearing Minalgems.", author: "Ananya M." },
+            { quote: "The attention to detail is unmatched. I felt like royalty wearing Payalgems.", author: "Ananya M." },
             { quote: "From the packaging to the product, everything screams luxury. Worth every penny.", author: "Kavita R." },
           ].map((t, i) => (
             <div

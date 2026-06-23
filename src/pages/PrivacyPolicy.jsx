@@ -19,7 +19,7 @@ export default function PrivacyPolicy() {
           </h2>
 
           <p>
-            Minal Gems values your trust and is committed to protecting your
+            Payal Gems values your trust and is committed to protecting your
             personal information. This Privacy Policy explains how we collect,
             use, and safeguard your information when you visit our website,
             place an order, or interact with our services.
@@ -66,7 +66,7 @@ export default function PrivacyPolicy() {
 
           <p>
             All online payments are processed securely through trusted payment
-            gateways. Minal Gems does not store your card or banking details on
+            gateways. Payal Gems does not store your card or banking details on
             our servers.
           </p>
         </section>
